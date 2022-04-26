@@ -1,0 +1,6 @@
+ctrl+a-- select file
+ctrl+c--copy
+ctrl+a--select entire file
+ctrl+s--save
+ctrl+c--copy
+ctrl+v--paste
